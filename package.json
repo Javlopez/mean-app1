@@ -1,0 +1,45 @@
+{
+  "name": "mean-api",
+  "main": "app.js",
+  "version": "1.0.0",
+  "description": "This is an example of MEAN Stack",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "cookie-parser": "^1.4.3",
+    "debug": "^2.3.2",
+    "ejs": "^2.5.2",
+    "express": "^4.5.1",
+    "method-override": "~2.0.2",
+    "mongojs": "^2.4.0",
+    "mongoose": "~3.8.0",
+    "morgan": "^1.7.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.2",
+    "gulp-livereload": "^3.8.1",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-watch": "^4.3.10",
+    "jshint": "^2.9.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Javlopez/mean-app1.git"
+  },
+  "keywords": [
+    "MEAN",
+    "MongoDB",
+    "Express",
+    "Angular",
+    "NodeJS"
+  ],
+  "author": "Javier Lopez Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Javlopez/mean-app1/issues"
+  },
+  "homepage": "https://github.com/Javlopez/mean-app1#readme"
+}
